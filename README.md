@@ -1,4 +1,4 @@
-# KRON-Dev (IT company)
+# ZIDIO-Dev (IT company)
 Fully adaptive, cross-browser, and user-friendly multi-page website for an esteemed international IT company. Made using modern solutions and technologies, the website delivers a seamless browsing experience, ensuring compatibility across different devices and browsers
 
 You can <a href="https://demgam.github.io/HEALTHY_SWITCHER/" target="_blank">see it there</a>
